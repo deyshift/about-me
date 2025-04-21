@@ -12,7 +12,7 @@ Versatile software engineer with a strong background in building scalable, high-
 ## 🛠️ **Skills**
 
 - **Languages & Frameworks**: TypeScript, JavaScript, React, Angular, Python, Flask, C#, .Net, SQL, HTML, CSS  
-- **Tools & Platforms**: Git, GitHub Actions, AWS, SQLite, CI/CD, REST APIs, Jest, CodeQL  
+- **Tools & Platforms**: Git, GitHub Actions, AWS, PostgreSQL, CI/CD, REST APIs, Jest, CodeQL  
 - **Development Practices**: Agile, Test-Driven Development (TDD), Secure Coding, Component-Based UI Architecture  
 
 ---
