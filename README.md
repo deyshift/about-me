@@ -35,7 +35,7 @@ Developed and optimized high-performance e-commerce web applications. Led initia
 - Migrated legacy AngularJS systems to micro-frontend architecture using Angular 17+ and TypeScript.
 - Built interactive SPAs, reducing load times by 40% and enhancing user experience.
 - Automated workflows with GitHub Actions and implemented CodeQL scans, resolving 100+ security vulnerabilities.
-- Delivered accessible, responsive web experiences in collaboration with cross-functional teams.
+- Collaborated with cross-functional teams to deliver accessible, responsive web experiences.
 
 ---
 
