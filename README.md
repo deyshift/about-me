@@ -68,4 +68,5 @@ A responsive personal library application for tracking reading progress and enri
 
 ---
 
-Let's connect and build amazing things together! 🚀
+Let's connect and build amazing things together! ![glorpHack-1x](https://github.com/user-attachments/assets/54216bf9-dfd7-4d6d-bc6d-ada5a71c1cb6)
+
