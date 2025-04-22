@@ -38,7 +38,7 @@ Developed and optimized high-performance e-commerce web applications. Led initia
 
 ---
 
-## 📂 **Projects**
+## ![glorpArrive-1x](https://github.com/user-attachments/assets/9a7a8dce-1dd1-481d-9e79-ba6724578744) **Projects**
 
 ### [MyLibrary Web Application](https://github.com/RivTechProjects/mylibrary)  
 **Personal Full-Stack Project** (March 2025 - April 2025)  
