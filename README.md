@@ -1,4 +1,5 @@
-# 👩‍💻 Deysha Rivera
+# ![glorp-1x](https://github.com/user-attachments/assets/5ee3c30a-d6dd-4418-9bc1-99bbf709674d) Deysha Rivera
+
 
 **Software Engineer**  
 Versatile software engineer with a strong background in building scalable, high-performance web applications. Skilled in modern frameworks, data-driven solutions, and distributed systems. Passionate about clean code, security, and improving user experience. Thrives in Agile teams and excels at turning complex problems into elegant solutions.
