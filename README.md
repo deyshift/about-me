@@ -19,7 +19,7 @@ Versatile software engineer with a strong background in building scalable, high-
 ## ![glorpNerd-1x](https://github.com/user-attachments/assets/7992e691-2c27-47e5-86fd-33c603e4ff05) **Currently Learning**
 - C#
 - PostgreSQL
-- Diving into AI/ML in the near future
+- Diving into AI/ML in the near future 🛸
 
 
 
