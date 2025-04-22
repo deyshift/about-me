@@ -1,4 +1,4 @@
-# ![glorp-1x](https://github.com/user-attachments/assets/5ee3c30a-d6dd-4418-9bc1-99bbf709674d) Deysha Rivera
+# ![glorp-4x](https://github.com/user-attachments/assets/20f84aae-d041-4dd3-ad33-660b311a23c5) Deysha Rivera
 
 
 **Software Engineer**  
