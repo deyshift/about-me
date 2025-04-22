@@ -68,7 +68,7 @@ A responsive personal library application for tracking reading progress and enri
 
 ---
 
-## 🌟 **Repositories of Interest**
+## ![glorpcook-1x](https://github.com/user-attachments/assets/5ec95d10-6398-4a46-a9c2-a53d188f0fa8) **Repositories of Interest**
 
 - **[MyLibrary](https://github.com/RivTechProjects/mylibrary)**: Full-stack library application using Python, React, and SQLite.
 - **[Other Projects](https://github.com/RivTechProjects?tab=repositories)**: Explore more projects showcasing my skills in web development, security, and performance optimization.
