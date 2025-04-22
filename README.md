@@ -38,7 +38,7 @@ Developed and optimized high-performance e-commerce web applications. Led initia
 
 ---
 
-## ![glorpHover-1x](https://github.com/user-attachments/assets/605f9e1e-d1b0-4fa4-9749-683330175dc1) **Projects**
+## ![glorpcook-1x](https://github.com/user-attachments/assets/5ec95d10-6398-4a46-a9c2-a53d188f0fa8) **Projects**
 
 ### [MyLibrary Web Application](https://github.com/RivTechProjects/mylibrary)  
 **Personal Full-Stack Project** (March 2025 - April 2025)  
@@ -65,13 +65,6 @@ A responsive personal library application for tracking reading progress and enri
 
 - **University of Massachusetts, Amherst**  
   Bachelor of Science, Animal Behavior and Wildlife Conservation (Cum Laude)  
-
----
-
-## ![glorpcook-1x](https://github.com/user-attachments/assets/5ec95d10-6398-4a46-a9c2-a53d188f0fa8) **Repositories of Interest**
-
-- **[MyLibrary](https://github.com/RivTechProjects/mylibrary)**: Full-stack library application using Python, React, and SQLite.
-- **[Other Projects](https://github.com/RivTechProjects?tab=repositories)**: Explore more projects showcasing my skills in web development, security, and performance optimization.
 
 ---
 
