@@ -8,7 +8,7 @@ Versatile software engineer with a strong background in building scalable, high-
 
 ---
 
-## 🛠️ **Skills**
+## ![glorpdetective-1x](https://github.com/user-attachments/assets/9d52cf1f-8b48-46ec-b0c7-aaa0757fa4da) **Skills**
 
 - **Languages & Frameworks**: TypeScript, JavaScript, React, Angular, Python, Flask, C#, .Net, SQL, HTML, CSS  
 - **Tools & Platforms**: Git, GitHub Actions, AWS, PostgreSQL, CI/CD, REST APIs, Jest, CodeQL  
@@ -23,7 +23,7 @@ Versatile software engineer with a strong background in building scalable, high-
 
 ---
 
-## 💼 **Professional Experience**
+## ![glorpa-1x](https://github.com/user-attachments/assets/c3885f3e-b618-454d-886a-0a0c6a96e8b0) **Professional Experience**
 
 ### General Motors, Austin Innovation Center (Remote)  
 **Software Engineer** (June 2022 - September 2024)  
