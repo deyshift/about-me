@@ -3,10 +3,6 @@
 **Software Engineer**  
 Versatile software engineer with a strong background in building scalable, high-performance web applications. Skilled in modern frameworks, data-driven solutions, and distributed systems. Passionate about clean code, security, and improving user experience. Thrives in Agile teams and excels at turning complex problems into elegant solutions.
 
-📧 **Email**: [rivera.dsm@gmail.com](mailto:rivera.dsm@gmail.com)  
-🔗 **LinkedIn**: [linkedin.com/in/deysharivera](https://linkedin.com/in/deysharivera)  
-🌐 **GitHub**: [github.com/RivTechProjects](https://github.com/RivTechProjects)
-
 ---
 
 ## 🛠️ **Skills**
