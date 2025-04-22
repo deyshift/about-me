@@ -19,7 +19,8 @@ Versatile software engineer with a strong background in building scalable, high-
 ## ![glorpNerd-1x](https://github.com/user-attachments/assets/7992e691-2c27-47e5-86fd-33c603e4ff05) **Currently Learning**
 - C#
 - PostgreSQL
-- Diving into AI/ML in the near future 🚀
+- Diving into AI/ML in the near future ![GlorpSpaceShip-1x](https://github.com/user-attachments/assets/1fd9f191-74c3-44c7-80c7-5053957a5899)
+
 
 ---
 
@@ -68,5 +69,5 @@ A responsive personal library application for tracking reading progress and enri
 
 ---
 
-Let's connect and build amazing things together! ![glorpHack-1x](https://github.com/user-attachments/assets/54216bf9-dfd7-4d6d-bc6d-ada5a71c1cb6)
+![glorpHack-1x](https://github.com/user-attachments/assets/54216bf9-dfd7-4d6d-bc6d-ada5a71c1cb6) Let's connect and build amazing things together!
 
