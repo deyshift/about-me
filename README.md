@@ -43,6 +43,15 @@ Developed and optimized high-performance e-commerce web applications. Led initia
 
 ## ![glorpcook-1x](https://github.com/user-attachments/assets/5ec95d10-6398-4a46-a9c2-a53d188f0fa8) **Projects**
 
+### [pytest Framework Contribution](https://github.com/pytest-dev/pytest/pull/13394)  
+**Open Source Contribution**  
+Fixed a bug in pytest's production code that caused test durations to appear negative, improving timing accuracy and ensuring reliable test reports. Contributed to the changelog to document the fix.
+
+**Highlights**:
+- Enhanced the accuracy of test duration reporting in pytest.
+- Collaborated with the open-source community to review and merge the fix.
+- Improved reliability and usability of the pytest framework for developers.
+
 ### [MyLibrary Web Application](https://github.com/RivTechProjects/mylibrary)  
 **Personal Full-Stack Project** (March 2025 - April 2025)  
 A responsive personal library application for tracking reading progress and enriching metadata with Google Books API.
