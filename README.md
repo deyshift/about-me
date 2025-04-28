@@ -52,7 +52,7 @@ Fixed a bug in pytest's production code that caused test durations to appear neg
 - Collaborated with the open-source community to review and merge the fix.
 - Improved reliability and usability of the pytest framework for developers.
 
-### [MyLibrary Web Application](https://github.com/RivTechProjects/mylibrary)  
+### [MyLibrary Web Application](https://github.com/rivtechprojects/mylibrary-app)  
 **Personal Full-Stack Project** (March 2025 - April 2025)  
 A responsive personal library application for tracking reading progress and enriching metadata with Google Books API.
 
