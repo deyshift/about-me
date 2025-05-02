@@ -10,7 +10,7 @@ Versatile software engineer with a strong background in building scalable, high-
 
 ## ![glorpdetective-1x](https://github.com/user-attachments/assets/9d52cf1f-8b48-46ec-b0c7-aaa0757fa4da) **Skills**
 
-- **Languages & Frameworks**: TypeScript, JavaScript, React, Angular, Python, Flask, C#, .Net, SQL, HTML, CSS  
+- **Languages & Frameworks**: TypeScript, JavaScript, React, Angular, Python, Flask, C#, .Net, ASP.NET Core, Entity Framework Core, SQL, HTML, CSS  
 - **Tools & Platforms**: Git, GitHub Actions, AWS, PostgreSQL, CI/CD, REST APIs, Jest, CodeQL  
 - **Development Practices**: Agile, Test-Driven Development (TDD), Secure Coding, Component-Based UI Architecture  
 
@@ -52,8 +52,17 @@ Fixed a bug in pytest's production code that caused test durations to appear neg
 - Collaborated with the open-source community to review and merge the fix.
 - Improved reliability and usability of the pytest framework for developers.
 
+### [Scrapy Project Contribution](https://github.com/scrapy/scrapy/pull/6749)
+**Open Source Contribution (Pending Merge)**  
+Collaborated on improving Scrapy’s behavior for filtering items by reviewing and providing feedback on a pull request. The enhancement introduces a more flexible approach to handle inclusion and exclusion rules, allowing developers to define whether inclusion or exclusion takes precedence when both rules apply to the same item.
+
+**Highlights**:
+- Contributed by reviewing the implementation and suggesting improvements to ensure high-quality standards.
+- Helped refine the logic to simplify how developers manage conflicting inclusion and exclusion rules.
+- Enhanced Scrapy’s flexibility, making it more adaptable to real-world scenarios where filtering criteria can overlap.
+
 ### [MyLibrary Web Application](https://github.com/rivtechprojects/mylibrary-app)  
-**Personal Full-Stack Project** (March 2025 - April 2025)  
+**Personal Full-Stack Project** (March 2025 - Present)
 A responsive personal library application for tracking reading progress and enriching metadata with Google Books API.
 
 **Highlights**:
