@@ -75,7 +75,7 @@ A responsive personal library application for tracking reading progress and enri
 ## ![glorpCube-1x](https://github.com/user-attachments/assets/cd3fe116-1584-4b4e-922d-4181af0b8e2d) **GitHub Stats**
 
 <div align="center">
-  <table>
+  <table border="0">
     <tr>
       <td>
         <img src="https://github-readme-stats.vercel.app/api?username=rivtechprojects&show_icons=true&theme=radical" alt="GitHub Stats" />
