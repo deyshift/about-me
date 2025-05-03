@@ -79,7 +79,7 @@ A responsive personal library application for tracking reading progress and enri
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=rivtechprojects&show_icons=true&theme=radical" alt="GitHub Stats" />
     </td>
-    <td style="padding-left: 20px;">
+    <td style="padding-left: 40px;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rivtechprojects&layout=compact&theme=radical" alt="Top Languages" />
     </td>
   </tr>
