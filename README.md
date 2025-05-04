@@ -43,6 +43,19 @@ Developed and optimized high-performance e-commerce web applications. Led initia
 
 ## ![glorpcook-1x](https://github.com/user-attachments/assets/5ec95d10-6398-4a46-a9c2-a53d188f0fa8) **Projects**
 
+### [Clip Vault](https://github.com/rivtechprojects/clipvault)  
+**Personal Full-Stack Project** (Ongoing)  
+A web application designed to store, organize, and manage code snippets effectively, featuring tagging, syntax highlighting, and advanced search capabilities.
+
+**Highlights**:
+- Developed a responsive UI using Angular, with support for dark mode.
+- Built a robust backend with ASP.NET Core and PostgreSQL, implementing JWT-based authentication.  
+- Designed a tagging system to enhance snippet categorization and retrieval.
+
+### [Scrapy Project Contribution](https://github.com/scrapy/scrapy/pull/6749)
+**Open Source Contribution (Pending Merge)**  
+Collaborated on improving Scrapy’s behavior for filtering items by reviewing and providing feedback on a pull request. The enhancement introduces a more flexible approach to handle inclusion and exclusion rules, allowing developers to define whether inclusion or exclusion takes precedence when both rules apply to the same item.
+
 ### [pytest Framework Contribution](https://github.com/pytest-dev/pytest/pull/13394)  
 **Open Source Contribution**  
 Fixed a bug in pytest's production code that caused test durations to appear negative, improving timing accuracy and ensuring reliable test reports. Contributed to the changelog to document the fix.
@@ -51,10 +64,6 @@ Fixed a bug in pytest's production code that caused test durations to appear neg
 - Enhanced the accuracy of test duration reporting in pytest.
 - Collaborated with the open-source community to review and merge the fix.
 - Improved reliability and usability of the pytest framework for developers.
-
-### [Scrapy Project Contribution](https://github.com/scrapy/scrapy/pull/6749)
-**Open Source Contribution (Pending Merge)**  
-Collaborated on improving Scrapy’s behavior for filtering items by reviewing and providing feedback on a pull request. The enhancement introduces a more flexible approach to handle inclusion and exclusion rules, allowing developers to define whether inclusion or exclusion takes precedence when both rules apply to the same item.
 
 **Highlights**:
 - Contributed by reviewing the implementation and suggesting improvements to ensure high-quality standards.
