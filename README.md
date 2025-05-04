@@ -56,6 +56,11 @@ A web application designed to store, organize, and manage code snippets effectiv
 **Open Source Contribution (Pending Merge)**  
 Collaborated on improving Scrapy’s behavior for filtering items by reviewing and providing feedback on a pull request. The enhancement introduces a more flexible approach to handle inclusion and exclusion rules, allowing developers to define whether inclusion or exclusion takes precedence when both rules apply to the same item.
 
+**Highlights**:
+- Contributed by reviewing the implementation and suggesting improvements to ensure high-quality standards.
+- Helped refine the logic to simplify how developers manage conflicting inclusion and exclusion rules.
+- Enhanced Scrapy’s flexibility, making it more adaptable to real-world scenarios where filtering criteria can overlap.
+
 ### [pytest](https://github.com/pytest-dev/pytest/pull/13394)  
 **Open Source Contribution**  
 Fixed a bug in pytest's production code that caused test durations to appear negative, improving timing accuracy and ensuring reliable test reports. Contributed to the changelog to document the fix.
@@ -64,11 +69,6 @@ Fixed a bug in pytest's production code that caused test durations to appear neg
 - Enhanced the accuracy of test duration reporting in pytest.
 - Collaborated with the open-source community to review and merge the fix.
 - Improved reliability and usability of the pytest framework for developers.
-
-**Highlights**:
-- Contributed by reviewing the implementation and suggesting improvements to ensure high-quality standards.
-- Helped refine the logic to simplify how developers manage conflicting inclusion and exclusion rules.
-- Enhanced Scrapy’s flexibility, making it more adaptable to real-world scenarios where filtering criteria can overlap.
 
 ### [MyLibrary Web Application](https://github.com/rivtechprojects/mylibrary-app)  
 **Personal Full-Stack Project** (March 2025 - Present)
