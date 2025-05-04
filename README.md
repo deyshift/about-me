@@ -99,7 +99,7 @@ A responsive personal library application for tracking reading progress and enri
 
 ---
 
-## ![Glourpe-1x](https://github.com/user-attachments/assets/c5e2c3ad-3527-45a3-a144-716ac9471b71) **Education**
+##![glorpNerd-1x (1)](https://github.com/user-attachments/assets/24b73412-7ed5-40cd-af83-679836861c2d) **Education**
 
 - **University of Maryland Global Campus**  
   Bachelor of Science, Computer Science (Summa Cum Laude)  
