@@ -16,13 +16,12 @@ Versatile software engineer with a strong background in building scalable, high-
 
 ---
 
-## ![glorpNerd-1x](https://github.com/user-attachments/assets/7992e691-2c27-47e5-86fd-33c603e4ff05) **Currently Learning**
-- C#
+## ![glorpNOTED-1x](https://github.com/user-attachments/assets/0684fa42-68a6-4838-9697-2e7aed1355eb) **Currently Learning**
+
+- C#/.Net
+- Docker/Kubernetes
 - PostgreSQL
 - Diving into AI/ML in the near future 🛸
-
-
-
 
 ---
 
