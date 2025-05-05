@@ -86,7 +86,7 @@ A responsive personal library application for tracking reading progress and enri
   <table style="border-collapse: collapse; border: none;">
     <tr>
       <td style="border: none;">
-        <img src="![trophies](https://github-profile-trophy.vercel.app/?username=rivtechprojects&theme=onedark)" alt="GitHub Profile Trophy" />
+        <img src="https://github-profile-trophy.vercel.app/?username=rivtechprojects&theme=onedark" alt="GitHub Profile Trophy" />
       </td>
       <td style="width: 40px; border: none;"></td> <!-- Spacer Column -->
       <td style="border: none;">
