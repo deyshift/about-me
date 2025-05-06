@@ -104,7 +104,7 @@ A responsive personal library application for tracking reading progress and enri
   Bachelor of Science, Computer Science (Summa Cum Laude)  
 
 - **University of Massachusetts, Amherst**  
-  Bachelor of Science, Animal Behavior and Wildlife Conservation (Cum Laude)  
+  Bachelor of Science, Interdisciplinary (Cum Laude)  
 
 ---
 
