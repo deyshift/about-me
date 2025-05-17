@@ -44,7 +44,7 @@ Developed and optimized high-performance e-commerce web applications. Led initia
 
 ### [Clip Vault](https://github.com/rivtechprojects/clipvault)  
 **Personal Full-Stack Project** (Ongoing)  
-A web application designed to store, organize, and manage code snippets effectively, featuring tagging, syntax highlighting, and advanced search capabilities.
+A web application designed to store, organize, and manage code snippets effectively, featuring tagging, code editor integration for language validation and syntax highlighting, and advanced search capabilities.
 
 **Highlights**:
 - Developed a responsive UI using Angular 20 standalone components.
