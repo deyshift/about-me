@@ -47,7 +47,8 @@ Developed and optimized high-performance e-commerce web applications. Led initia
 A web application designed to store, organize, and manage code snippets effectively, featuring tagging, syntax highlighting, and advanced search capabilities.
 
 **Highlights**:
-- Developed a responsive UI using Angular, with support for dark mode.
+- Developed a responsive UI using Angular 20 standalone components.
+- Integrated Monaco Editor for syntax highlighting and supported language validation.
 - Built a robust backend with ASP.NET Core and PostgreSQL, implementing JWT-based authentication.  
 - Designed a tagging system to enhance snippet categorization and retrieval.
 
