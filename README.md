@@ -54,7 +54,7 @@ A web application designed to store, organize, and manage code snippets effectiv
 
 ### [PyTorch](https://github.com/pytorch/pytorch/pull/153775)  
 **Open Source Contribution**  
-Refactored the FX pass logging in PyTorch to separate verbose/intermediate graph logs from final output graph logs. Introduced a new artifact logger (`graph_code_verbose`) so that only final output graphs log to the original artifact, improving log clarity and developer experience without changing FX pass logic or user-facing APIs. This contribution addressed [issue #153646](https://github.com/pytorch/pytorch/issues/153646).
+Refactored the FX pass logging in PyTorch to separate verbose/intermediate graph logs from final output graph logs. Introduced a new artifact logger (`graph_code_verbose`) so that only final output graphs log to the original artifact, improving log clarity and developer experience without changing FX pass logic or user-facing APIs.
 
 **Highlights**:
 - Refactored `insert_deferred_runtime_asserts` and related logging to reduce noise and improve the development workflow.
