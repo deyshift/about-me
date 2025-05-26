@@ -4,7 +4,11 @@
 
 
 **Software Engineer**  
-Versatile software engineer with a strong background in building scalable, high-performance web applications. Skilled in modern frameworks, data-driven solutions, and distributed systems. Passionate about clean code, security, and improving user experience. Thrives in Agile teams and excels at turning complex problems into elegant solutions.
+I’m a curious and adaptable software engineer who enjoys building things. Currently cooking with Angular, C#, and .NET, and contributing to open source Python projects. I have a deep love for technology and a constant drive to explore what’s new and next.
+
+When I’m not obsessing over my latest side project, you’ll find me hanging out with my fur babies, spending time with family, or diving into competitive World of Warcraft. I’m always reinventing myself. I’ve gone from field biologist to horse trainer to software engineer, driven by grit, adaptability, and a genuine love of learning.
+
+I’m looking for opportunities where I can build things that matter, grow my skills, and collaborate with smart, driven teammates.
 
 ---
 
