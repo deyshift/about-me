@@ -15,7 +15,7 @@ I’m looking for opportunities where I can build things that matter, grow my sk
 ## ![glorpdetective-1x](https://github.com/user-attachments/assets/9d52cf1f-8b48-46ec-b0c7-aaa0757fa4da) **Skills**
 
 - **Languages & Frameworks**: TypeScript, JavaScript, React, Angular, Python, Flask, C#, .Net, ASP.NET, Entity Framework, SQL, HTML, CSS  
-- **Tools & Platforms**: Git, GitHub Actions, AWS, PostgreSQL, CI/CD, REST APIs, Jest, CodeQL
+- **Tools & Platforms**: Git, GitHub Actions, AWS, PostgreSQL, CI/CD, REST APIs, Jest, CodeQL, Docker
 - **Development Practices**: Agile, Test-Driven Development (TDD), Secure Coding, Component-Based UI Architecture  
 
 ---
