@@ -28,24 +28,19 @@ Let’s connect - especially if you're working at the intersection of software a
 ### OpsCanvas, Alexandria VA
 ** Software Engineering Intern ** (June 2025 - Present)
 Focused on cloud engineering and infrastructure as code to develop scalable, cloud-native infrastructure and backend services.
-•	Developing scalable, cloud-native infrastructure using Go, Terraform, and Kubernetes, supporting infrastructure as code principles.
-•	Building and automating CI/CD pipelines to improve deployment workflows and reduce manual operations.
-•	Supporting AWS cloud environment provisioning and monitoring to increase system reliability and developer velocity.
-
-![image](https://github.com/user-attachments/assets/93a03335-7c01-428b-a729-c47aec70229d)
+- Developing scalable, cloud-native infrastructure using Go, Terraform, and Kubernetes, supporting infrastructure as code principles.
+- Building and automating CI/CD pipelines to improve deployment workflows and reduce manual operations.
+- Supporting AWS cloud environment provisioning and monitoring to increase system reliability and developer velocity.
 
 ### General Motors, Austin Innovation Center (Remote)  
 **Software Engineer** (June 2022 - September 2024)  
 Developed and optimized high-performance e-commerce web applications. Led initiatives in analytics, security, automation, and frontend modernization to improve platform reliability and business outcomes.
 
 **Key Contributions**:
-•	Led the integration of Heap Analytics contributing to a 30% increase in conversion rates.
-•	Automated security pipelines across 30+ repositories using GitHub Actions and CodeQL, resolving 100+ vulnerabilities and streamlining DevSecOps practices.
-•	Migrated monolithic frontend to micro-frontend architecture with Angular 17+ and TypeScript, improving scalability and performance.
-•	Optimized SPAs to reduce load time by 40%, enhancing user experience and engagement.
-
-![image](https://github.com/user-attachments/assets/f7ea0d6d-4afc-413c-89da-850f5b8a0ec7)
-
+- Led the integration of Heap Analytics contributing to a 30% increase in conversion rates.
+- Automated security pipelines across 30+ repositories using GitHub Actions and CodeQL, resolving 100+ vulnerabilities and streamlining DevSecOps practices.
+- Migrated monolithic frontend to micro-frontend architecture with Angular 17+ and TypeScript, improving scalability and performance.
+- Optimized SPAs to reduce load time by 40%, enhancing user experience and engagement.
 
 ---
 
