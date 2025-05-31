@@ -1,9 +1,13 @@
 # ![glorpGreetings-1x](https://github.com/user-attachments/assets/ee537c7f-c8fe-4881-9c47-5e4550a7be3a) Deysha Rivera
 
 **Software Engineer**  
-I'm a Software Engineer with a strong focus on cloud infrastructure, currently working with Go (Golang), AWS, Terraform, and Kubernetes. While my title is software engineering, my day-to-day involves designing, provisioning, and managing cloud environments using Infrastructure as Code (IaC) principles. I enjoy building scalable systems, automating deployment pipelines, and working hands-on with modern DevOps tools. I'm especially interested in how clean code and well-architected infrastructure can come together to improve performance, reliability, and developer experience. I'm always eager to learn more about cloud-native technologies, secure deployments, and real-world engineering best practices. Whether it's writing backend services in Go or setting up robust infrastructure with Terraform and Kubernetes, I'm excited to keep growing in this space.
-Let’s connect - especially if you're working at the intersection of software and cloud!
+I'm a Software Engineer with a strong focus on cloud infrastructure, currently working with Go (Golang), AWS, Terraform, and Kubernetes. While my title is software engineering, my day-to-day involves designing, provisioning, and managing cloud environments using Infrastructure as Code (IaC) principles.  
 
+I enjoy building scalable systems, automating deployment pipelines, and working hands-on with modern DevOps tools. I'm especially interested in how clean code and well-architected infrastructure can come together to improve performance, reliability, and developer experience.  
+
+I'm always eager to learn more about cloud-native technologies, secure deployments, and real-world engineering best practices. Whether it's writing backend services in Go or setting up robust infrastructure with Terraform and Kubernetes, I'm excited to keep growing in this space.  
+
+Let’s connect — especially if you're working at the intersection of software and cloud!
 ---
 
 ## ![glorpdetective-1x](https://github.com/user-attachments/assets/9d52cf1f-8b48-46ec-b0c7-aaa0757fa4da) **Skills**
