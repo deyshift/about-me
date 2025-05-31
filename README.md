@@ -7,7 +7,8 @@ I enjoy building scalable systems, automating deployment pipelines, and working 
 
 I'm always eager to learn more about cloud-native technologies, secure deployments, and real-world engineering best practices. Whether it's writing backend services in Go or setting up robust infrastructure with Terraform and Kubernetes, I'm excited to keep growing in this space.  
 
-Let’s connect — especially if you're working at the intersection of software and cloud!
+Let’s connect — especially if you're working at the intersection of software and cloud!  
+
 ---
 
 ## ![glorpdetective-1x](https://github.com/user-attachments/assets/9d52cf1f-8b48-46ec-b0c7-aaa0757fa4da) **Skills**
