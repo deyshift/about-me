@@ -25,8 +25,8 @@ Let’s connect - especially if you're working at the intersection of software a
 
 ## ![glorpa-1x](https://github.com/user-attachments/assets/c3885f3e-b618-454d-886a-0a0c6a96e8b0) **Professional Experience**
 
-### OpsCanvas, Alexandria VA
-** Software Engineering Intern ** (June 2025 - Present)
+### OpsCanvas, Alexandria VA  
+**Software Engineering Intern** (June 2025 - Present)  
 Focused on cloud engineering and infrastructure as code to develop scalable, cloud-native infrastructure and backend services.
 - Developing scalable, cloud-native infrastructure using Go, Terraform, and Kubernetes, supporting infrastructure as code principles.
 - Building and automating CI/CD pipelines to improve deployment workflows and reduce manual operations.
