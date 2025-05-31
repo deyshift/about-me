@@ -1,46 +1,51 @@
 # ![glorpGreetings-1x](https://github.com/user-attachments/assets/ee537c7f-c8fe-4881-9c47-5e4550a7be3a) Deysha Rivera
 
-
-
-
 **Software Engineer**  
-I’m a curious and adaptable software engineer who enjoys building things. Currently cooking with Angular, C#, and .NET, and contributing to open source Python projects. I have a deep love for technology and a constant drive to explore what’s new and next.
-
-When I’m not obsessing over my latest side project, you’ll find me hanging out with my fur babies, spending time with family, or diving into competitive World of Warcraft. I’m always reinventing myself. I’ve gone from field biologist to horse trainer to software engineer, driven by grit, adaptability, and a genuine love of learning.
-
-I’m looking for opportunities where I can build things that matter, grow my skills, and collaborate with smart, driven teammates.
+I'm a Software Engineer with a strong focus on cloud infrastructure, currently working with Go (Golang), AWS, Terraform, and Kubernetes. While my title is software engineering, my day-to-day involves designing, provisioning, and managing cloud environments using Infrastructure as Code (IaC) principles. I enjoy building scalable systems, automating deployment pipelines, and working hands-on with modern DevOps tools. I'm especially interested in how clean code and well-architected infrastructure can come together to improve performance, reliability, and developer experience. I'm always eager to learn more about cloud-native technologies, secure deployments, and real-world engineering best practices. Whether it's writing backend services in Go or setting up robust infrastructure with Terraform and Kubernetes, I'm excited to keep growing in this space.
+Let’s connect - especially if you're working at the intersection of software and cloud!
 
 ---
 
 ## ![glorpdetective-1x](https://github.com/user-attachments/assets/9d52cf1f-8b48-46ec-b0c7-aaa0757fa4da) **Skills**
 
-- **Languages & Frameworks**: TypeScript, JavaScript, React, Angular, Python, Flask, C#, .Net, ASP.NET, Entity Framework, SQL, HTML, CSS  
-- **Tools & Platforms**: Git, GitHub Actions, AWS, PostgreSQL, CI/CD, REST APIs, Jest, CodeQL
-- **Development Practices**: Agile, Test-Driven Development (TDD), Secure Coding, Component-Based UI Architecture  
+- **Languages & Frameworks**: Go, Python, C#, TypeScript, SQL, HTML, CSS
+- **Frameworks**: Angular, React, Flask, .Net, ASP.NET, Entity Framework
+- **Tools & Platforms**: Terraform, Kubernetes, AWS, Docker, Git, GitHub Actions, PostgreSQL, CI/CD, REST APIs, CodeQL
+- **Development Practices**: Cloud Engineering, Infrastructure as Code, Agile, Test-Driven Development (TDD), Secure SDLC
 
 ---
 
 ## ![glorpNOTED-1x](https://github.com/user-attachments/assets/0684fa42-68a6-4838-9697-2e7aed1355eb) **Currently Learning**
 
-- C#/.Net
-- Docker/Kubernetes
-- PostgreSQL
-- Diving into AI/ML in the near future 🛸
+- Go (Golang)
+- AWS, Terraform, Kubernetes, IaC
+- Cloud Engineering
 
 ---
 
 ## ![glorpa-1x](https://github.com/user-attachments/assets/c3885f3e-b618-454d-886a-0a0c6a96e8b0) **Professional Experience**
+
+### OpsCanvas, Alexandria VA
+** Software Engineering Intern ** (June 2025 - Present)
+Focused on cloud engineering and infrastructure as code to develop scalable, cloud-native infrastructure and backend services.
+•	Developing scalable, cloud-native infrastructure using Go, Terraform, and Kubernetes, supporting infrastructure as code principles.
+•	Building and automating CI/CD pipelines to improve deployment workflows and reduce manual operations.
+•	Supporting AWS cloud environment provisioning and monitoring to increase system reliability and developer velocity.
+
+![image](https://github.com/user-attachments/assets/93a03335-7c01-428b-a729-c47aec70229d)
 
 ### General Motors, Austin Innovation Center (Remote)  
 **Software Engineer** (June 2022 - September 2024)  
 Developed and optimized high-performance e-commerce web applications. Led initiatives in analytics, security, automation, and frontend modernization to improve platform reliability and business outcomes.
 
 **Key Contributions**:
-- Integrated Heap Analytics for real-time behavioral insights, boosting conversion rates by 30%.
-- Migrated legacy AngularJS systems to micro-frontend architecture using Angular 17+ and TypeScript.
-- Built interactive SPAs, reducing load times by 40% and enhancing user experience.
-- Automated workflows with GitHub Actions and implemented CodeQL scans, resolving 100+ security vulnerabilities.
-- Collaborated with cross-functional teams to deliver accessible, responsive web experiences.
+•	Led the integration of Heap Analytics contributing to a 30% increase in conversion rates.
+•	Automated security pipelines across 30+ repositories using GitHub Actions and CodeQL, resolving 100+ vulnerabilities and streamlining DevSecOps practices.
+•	Migrated monolithic frontend to micro-frontend architecture with Angular 17+ and TypeScript, improving scalability and performance.
+•	Optimized SPAs to reduce load time by 40%, enhancing user experience and engagement.
+
+![image](https://github.com/user-attachments/assets/f7ea0d6d-4afc-413c-89da-850f5b8a0ec7)
+
 
 ---
 
