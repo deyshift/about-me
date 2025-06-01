@@ -1,7 +1,7 @@
 # ![glorpGreetings-1x](https://github.com/user-attachments/assets/ee537c7f-c8fe-4881-9c47-5e4550a7be3a) Deysha Rivera
 
 **Software Engineer**  
-I'm a Software Engineer with a strong focus on cloud infrastructure, currently working with Go (Golang), AWS, Terraform, and Kubernetes. While my title is software engineering, my day-to-day involves designing, provisioning, and managing cloud environments using Infrastructure as Code (IaC) principles.  
+I'm a Software Engineer with a strong focus on cloud infrastructure, currently working with Go (Golang), AWS, Terraform, and Kubernetes. While my title is software engineer, my day-to-day involves designing, provisioning, and managing cloud environments using Infrastructure as Code (IaC) principles.  
 
 I enjoy building scalable systems, automating deployment pipelines, and working hands-on with modern DevOps tools. I'm especially interested in how clean code and well-architected infrastructure can come together to improve performance, reliability, and developer experience.  
 
