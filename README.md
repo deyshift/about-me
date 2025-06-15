@@ -51,7 +51,7 @@ Developed and optimized high-performance e-commerce web applications. Led initia
 
 ## ![glorpcook-1x](https://github.com/user-attachments/assets/5ec95d10-6398-4a46-a9c2-a53d188f0fa8) **Projects**
 
-### [Clip Vault](https://github.com/rivtechprojects/clipvault)  
+### [Clip Vault](https://github.com/surlystack/clipvault)  
 **Personal Full-Stack Project** (Ongoing)  
 A web application designed to store, organize, and manage code snippets effectively, featuring tagging, code editor integration for language validation and syntax highlighting, and advanced search capabilities.
 
@@ -88,7 +88,7 @@ Fixed a bug in pytest's production code that caused test durations to appear neg
 - Collaborated with the open-source community to review and merge the fix.
 - Improved reliability and usability of the pytest framework for developers.
 
-### [MyLibrary Web Application](https://github.com/rivtechprojects/mylibrary-app)  
+### [MyLibrary Web Application](https://github.com/surlystack/mylibrary-app)  
 **Personal Full-Stack Project** (March 2025 - Present)
 A responsive personal library application for tracking reading progress and enriching metadata with Google Books API.
 
@@ -105,11 +105,11 @@ A responsive personal library application for tracking reading progress and enri
   <table style="border-collapse: collapse; border: none;">
     <tr>
       <td style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api?username=rivtechprojects&show_icons=true&theme=radical&cache_seconds=1800&v=3" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=surlystack&show_icons=true&theme=radical&cache_seconds=1800&v=3" alt="GitHub Stats" />
       </td>
       <td style="width: 40px; border: none;"></td> <!-- Spacer Column -->
       <td style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rivtechprojects&layout=compact&theme=radical" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surlystack&layout=compact&theme=radical" alt="Top Languages" />
       </td>
     </tr>
   </table>
