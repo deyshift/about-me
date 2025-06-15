@@ -1,13 +1,15 @@
 # ![glorpGreetings-1x](https://github.com/user-attachments/assets/ee537c7f-c8fe-4881-9c47-5e4550a7be3a) Deysha Rivera
 
-**Software Engineer**  
-I'm a Software Engineer with a strong focus on cloud infrastructure, currently working with Go (Golang), AWS, Terraform, and Kubernetes. While my title is software engineer, my day-to-day involves designing, provisioning, and managing cloud environments using Infrastructure as Code (IaC) principles.  
+**Software Engineer | Cloud Infrastructure & DevOps Enthusiast**
+I'm a Software Engineer with a strong focus on cloud infrastructure and a growing interest in DevOps. While my title is software engineer, my day-to-day work revolves around designing, provisioning, and managing cloud environments using Infrastructure as Code (IaC) with tools like Terraform, Kubernetes, AWS, and Go.
 
-I enjoy building scalable systems, automating deployment pipelines, and working hands-on with modern DevOps tools. I'm especially interested in how clean code and well-architected infrastructure can come together to improve performance, reliability, and developer experience.  
+I’m passionate about building reliable systems that scale, learning new technologies, and creating solutions that work right the first time. I enjoy integrating new tools and automating workflows to make development and deployment smoother and more efficient. Recently, I deployed an OpenTelemetry-based observability stack (Loki, Grafana, Tempo, and Mimir) using Terraform and Helm on Kubernetes to improve monitoring and reliability in production.
 
-I'm always eager to learn more about cloud-native technologies, secure deployments, and real-world engineering best practices. Whether it's writing backend services in Go or setting up robust infrastructure with Terraform and Kubernetes, I'm excited to keep growing in this space.  
+Working in a fast-paced startup, I’ve also embraced agentic AI tools to accelerate development and infrastructure tasks—from prototyping to debugging—which has been especially valuable when speed and adaptability matter most.
 
-Let’s connect — especially if you're working at the intersection of software and cloud!  
+As I branch further into DevOps, I'm exploring cloud-native technologies, secure deployments, and real-world engineering best practices. Whether it’s writing backend services in Go or shaping infrastructure with Terraform, I’m excited to keep growing at the intersection of software and cloud.
+
+Let’s connect—especially if you’re working on infrastructure, platforms, or developer tooling.
 
 ---
 
