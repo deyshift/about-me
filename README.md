@@ -1,49 +1,56 @@
 # ![glorpGreetings-1x](https://github.com/user-attachments/assets/ee537c7f-c8fe-4881-9c47-5e4550a7be3a) Deysha Rivera
 
 **Software Engineer | Cloud Infrastructure & DevOps Enthusiast**
-I'm a Software Engineer with a strong focus on cloud infrastructure and a growing interest in DevOps. While my title is software engineer, my day-to-day work revolves around designing, provisioning, and managing cloud environments using Infrastructure as Code (IaC) with tools like Terraform, Kubernetes, AWS, and Go.
 
-I’m passionate about building reliable systems that scale, learning new technologies, and creating solutions that work right the first time. I enjoy integrating new tools and automating workflows to make development and deployment smoother and more efficient. Recently, I deployed an OpenTelemetry-based observability stack (Loki, Grafana, Tempo, and Mimir) using Terraform and Helm on Kubernetes to improve monitoring and reliability in production.
+I’m a Software Engineer with a strong focus on cloud infrastructure, observability, and DevOps. Most of my work revolves around designing and deploying scalable cloud-native systems using tools like Terraform/OpenTofu, Kubernetes, Helm, and AWS—often with Go or Python in the mix.
 
-Working in a fast-paced startup, I’ve also embraced agentic AI tools to accelerate development and infrastructure tasks—from prototyping to debugging—which has been especially valuable when speed and adaptability matter most.
+Currently, I'm building enterprise-grade observability stacks in an EKS environment, automating deployments with Infrastructure as Code, and integrating telemetry pipelines that track logs, metrics, and traces. I recently implemented the full OpenTelemetry and Grafana LGTM stack—Loki, Grafana, Tempo, and Mimir—to provide real-time visibility into Kubernetes workloads. This included configuring OpenTelemetry Collector pipelines, securing access via IAM and OAuth, and designing Grafana dashboards for API performance monitoring.
 
-As I branch further into DevOps, I'm exploring cloud-native technologies, secure deployments, and real-world engineering best practices. Whether it’s writing backend services in Go or shaping infrastructure with Terraform, I’m excited to keep growing at the intersection of software and cloud.
+I enjoy working on high-impact infrastructure projects where reliability and visibility matter. From automating lifecycle policies for cloud storage to tuning dashboards for actionable insights, I aim to make systems easier to operate and scale.
 
-Let’s connect—especially if you’re working on infrastructure, platforms, or developer tooling.
+Lately, I’ve also been exploring how agentic AI tools can accelerate cloud engineering workflows—from prototyping infrastructure to debugging services—especially in fast-moving environments.
+
+As I continue to grow, I’m focused on deepening my expertise in observability, secure cloud deployments, and automation that scales.
 
 ---
 
-## ![glorpdetective-1x](https://github.com/user-attachments/assets/9d52cf1f-8b48-46ec-b0c7-aaa0757fa4da) **Skills**
+## ![glorpdetective-1x](https://github.com/user-attachments/assets/9d52cf1f-8b48-46ec-b0c7-aaa0757fa4da) **Technical Skills**
 
-- **Languages & Frameworks**: Go, Python, C#, TypeScript, SQL, HTML, CSS
-- **Frameworks**: Angular, React, Flask, .Net, ASP.NET, Entity Framework
-- **Tools & Platforms**: Terraform, Kubernetes, AWS, Docker, Git, GitHub Actions, PostgreSQL, CI/CD, REST APIs, CodeQL
-- **Development Practices**: Cloud Engineering, Infrastructure as Code, Agile, Test-Driven Development (TDD), Secure SDLC
+Languages: Go, Python, C#, TypeScript, SQL, HTML/CSS
+Frameworks & Libraries: Angular, React, Flask, .NET, ASP.NET, Entity Framework
+Cloud & Infrastructure: AWS (EKS, IAM, S3, EC2), Terraform/OpenTofu, Kubernetes, Helm, Docker
+Observability & Monitoring: OpenTelemetry, Grafana, Prometheus, Loki, Tempo, Mimir
+DevOps & CI/CD: GitHub Actions, GitLab CI/CD, Git, CodeQL
+Databases: PostgreSQL, SQL Server
 
 ---
 
 ## ![glorpNOTED-1x](https://github.com/user-attachments/assets/0684fa42-68a6-4838-9697-2e7aed1355eb) **Currently Learning**
 
-- Go (Golang)
-- AWS, Terraform, Kubernetes, IaC
-- Cloud Engineering
-
+- Building production-grade observability pipelines using OpenTelemetry and the Grafana LGTM stack (Loki, Grafana, Tempo, Mimir)
+- Advanced Go (Golang) for backend services and infrastructure tooling
+- Cloud-native engineering with AWS, Terraform/OpenTofu, and Kubernetes
+- Infrastructure as Code (IaC) strategies for secure, scalable, and repeatable deployments
+- Real-world DevOps and monitoring workflows that support high-reliability systems
+  
 ---
 
 ## ![glorpa-1x](https://github.com/user-attachments/assets/c3885f3e-b618-454d-886a-0a0c6a96e8b0) **Professional Experience**
 
 ### OpsCanvas, Alexandria VA  
 **Software Engineering Intern** (June 2025 - Present)  
-Focused on cloud engineering and infrastructure as code to develop scalable, cloud-native infrastructure and backend services.
-- Developing scalable, cloud-native infrastructure using Go, Terraform, and Kubernetes, supporting infrastructure as code principles.
-- Building and automating CI/CD pipelines to improve deployment workflows and reduce manual operations.
-- Supporting AWS cloud environment provisioning and monitoring to increase system reliability and developer velocity.
+Working at the intersection of cloud engineering, observability, and infrastructure as code to build scalable, production-ready systems.
+- Architecting and deploying observability stacks using the Grafana LGTM suite (Loki, Grafana, Tempo, Mimir) on AWS EKS via Terraform and Helm
+- Implementing telemetry pipelines with OpenTelemetry Collector to process logs, metrics, and traces from Kubernetes workloads
+- Automating infrastructure with dynamic Helm chart templating, GitLab CI/CD, and remote state management for reproducible environments
+
+Designing Grafana dashboards for real-time API performance monitoring and system health visibility
+
+Securing cloud infrastructure with IAM roles, OAuth SSO, and lifecycle policies for compliance and cost efficiency
 
 ### General Motors, Austin Innovation Center (Remote)  
 **Software Engineer** (June 2022 - September 2024)  
 Developed and optimized high-performance e-commerce web applications. Led initiatives in analytics, security, automation, and frontend modernization to improve platform reliability and business outcomes.
-
-**Key Contributions**:
 - Led the integration of Heap Analytics contributing to a 30% increase in conversion rates.
 - Automated security pipelines across 30+ repositories using GitHub Actions and CodeQL, resolving 100+ vulnerabilities and streamlining DevSecOps practices.
 - Migrated monolithic frontend to micro-frontend architecture with Angular 17+ and TypeScript, improving scalability and performance.
