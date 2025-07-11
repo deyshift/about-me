@@ -114,11 +114,11 @@ A responsive personal library application for tracking reading progress and enri
   <table style="border-collapse: collapse; border: none;">
     <tr>
       <td style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api?username=surlystack&show_icons=true&theme=radical&cache_seconds=1800&v=3" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=deyshift&show_icons=true&theme=radical&cache_seconds=1800&v=3" alt="GitHub Stats" />
       </td>
       <td style="width: 40px; border: none;"></td> <!-- Spacer Column -->
       <td style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surlystack&layout=compact&theme=radical" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deyshift&layout=compact&theme=radical" alt="Top Languages" />
       </td>
     </tr>
   </table>
